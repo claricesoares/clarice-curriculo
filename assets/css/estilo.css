@@ -140,6 +140,7 @@ body{
     border-radius: 5px;
     text-decoration: none;
     border: none;
+    color: #ffffff;
 }
 .botao:hover{
     opacity: .6;
