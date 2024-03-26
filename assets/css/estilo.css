@@ -75,6 +75,7 @@ body{
     font-weight: 400;
     color: var(--cor-destaque);
     margin: 16px 0;
+    text-align: center;
 }
 
 .perfil__descricao{
